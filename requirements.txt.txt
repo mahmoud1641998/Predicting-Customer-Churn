@@ -4,3 +4,6 @@ scikit-learn
 matplotlib
 streamlit
 xgboost
+tensorflow
+keras
+torch 
